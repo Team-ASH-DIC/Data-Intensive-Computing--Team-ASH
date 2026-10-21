@@ -18,7 +18,7 @@ The EAS 587 Data Intensive Computing Group Project (Team ASH) investigates heavy
         └── eda.py             Exploratory data analysis
 
 ## Setup Instructions
-1. Clone the repository git clone https://github.com/sakshamsaxena111/Data-Intensive-Computing--Team-ASH.git
+1. Clone the repository git clone https://github.com/Team-ASH-DIC/Data-Intensive-Computing--Team-ASH.git
 cd Data-Intensive-Computing--Team-ASH
 
 2. Create and activate a virtual environment:
