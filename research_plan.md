@@ -21,7 +21,7 @@ Last Updated
 September 17, 2026
 
 GitHub Repository
-https://github.com/TeamASH999/Data-Intensive-Computing--Team-ASH.git
+https://github.com/sakshamsaxena111/Data-Intensive-Computing--Team-ASH.git
 
 1. Research Goal
 
