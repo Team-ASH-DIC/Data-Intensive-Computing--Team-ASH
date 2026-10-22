@@ -8,5 +8,5 @@ venv/
 
 # Large datasets
 *.h5
-*.hdf5
 *.parquet
+*.HDF5
